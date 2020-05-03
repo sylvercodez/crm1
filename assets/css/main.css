@@ -1,0 +1,24 @@
+#logo{
+
+}
+
+    body{
+        background-color: gray;
+        background-image: url('images/images.png');
+    }
+    
+    #total-orders{
+        background-color: lightcyan;
+    }
+
+    #orders-delivered{
+        background-color: darkseagreen;
+    }
+
+    #orders-pending{
+        background-color: powderblue;
+    }
+
+    #out_of_delivery{
+        background-color: paleturquoise;
+    }
